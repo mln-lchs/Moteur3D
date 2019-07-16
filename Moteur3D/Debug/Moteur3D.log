@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  Box.cpp
+  CollisionData.cpp
+  Contact.cpp
+  GravityForceGenerator.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  Moteur3D.cpp
+  Octree.cpp
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\octree.cpp(37): warning C4018: '>' : incompatibilité signed/unsigned
+  Plane.cpp
+  Primitive.cpp
+  Quaternion.cpp
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\quaternion.cpp(46): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  RigidBody.cpp
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\rigidbody.cpp(100): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\rigidbody.cpp(105): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  Sphere.cpp
+  SpringForceGenerator.cpp
+  Vecteur3D.cpp
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\vecteur3d.cpp(140): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\vecteur3d.cpp(166): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+d:\melanie\documents\uqac\automne 2018\mathsphy\phase4_jorge_lachaise\moteur3d\moteur3d\vecteur3d.cpp(178): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Génération de code en cours...
+  Moteur3D.vcxproj -> D:\Melanie\Documents\UQAC\Automne 2018\MathsPhy\Phase4_JORGE_LACHAISE\Moteur3D\Debug\Moteur3D.exe

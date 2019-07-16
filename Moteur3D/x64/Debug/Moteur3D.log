@@ -1,0 +1,6 @@
+﻿  Box.cpp
+  Moteur3D.cpp
+c:\users\dridr\desktop\moteur\moteur3d\moteur3d\moteur3d.cpp(107): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  Octree.cpp
+  Génération de code en cours...
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'glut32.lib'
